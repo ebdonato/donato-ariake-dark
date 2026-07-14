@@ -1,3 +1,4 @@
 node_modules/**
-misc/**
+assets/**
 .vscode/**
+.DS_Store

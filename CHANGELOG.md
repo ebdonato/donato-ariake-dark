@@ -1,5 +1,9 @@
-# Change Log
-All notable changes to the "ariake" extension will be documented in this file.
+# Changelog
 
-## [0.0.4] - 2017-10-12
-.vscodeignore fix
+All notable changes to the "donato-ariake-dark" extension will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
+
+## [1.0.0] - 2026-07-13
+
+First version

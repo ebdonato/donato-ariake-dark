@@ -1,22 +1,37 @@
-![Title image](https://github.com/a-wart/ariake-dark/blob/master/misc/ariake_dark_github.png?raw=true)
+# donato ariake dark
 
-# README
-## Ariake Dark color theme for Visual Studio Code
+![Title image](assets/ariake_dark_github.png)
 
-This is (a bit customized) port of [Ariake Dark Syntax theme](https://github.com/pathtrk/ariake-dark-syntax) made by [@pathtrk](https://github.com/pathtrk/)
+Dark theme for VS Code and Google Antigravity IDE, forked from [Ariake Dark](https://github.com/a-wart/ariake-dark) by [Artem](https://github.com/a-wart), and that one forked from [Ariake Dark](https://github.com/pathtrk/ariake-dark-syntax) by [@pathtrk](https://github.com/pathtrk/).
 
-Ariake is an atom syntax theme inspired by Japanese traditional colors and the poetry composed 1000 years ago.
+Ariake is a syntax theme inspired by Japanese traditional colors and the poetry composed 1000 years ago. This fork ships two variants:
+
+- **Flat** — soft surfaces, standard editor background.
+- **OLED** — true black background for OLED displays and reduced bloom.
 
 "有明の　つれなく見えし　別れより　暁ばかり　憂きものはなし" - Mibu no Tadamine (壬生忠岑)
 
 "Since I saw the moon in dawn when you said good-bye, My heart aches every time I see it again."
 
-### Screenshot examples
+## Screenshot examples
 
-![Screenshot example fragment](https://github.com/a-wart/ariake-dark/blob/master/misc/screenshot_frag.png?raw=true)
-> (Font used — Fira Code, antialiasing enabled)
+### Flat Variant
 
-![Screenshot example full](https://github.com/a-wart/ariake-dark/blob/master/misc/screenshot_full.png?raw=true)
-> (Font used — Fira Code, antialiasing disabled)
+![Screenshot example flat](assets/screenshot_flat.png)
+
+### Oled Variant
+
+![Screenshot example oled](assets/screenshot_oled.png)
+
+## License
+
+[MIT](LICENSE)
+
+## Made by with 💛
+
+<p align="center">
+  <img src="assets/eu.png" alt="DONATO" width="96" style="border-radius: 50%;" /><br/>
+  <strong>Eduardo DONATO</strong>
+</p>
 
 **Enjoy!**

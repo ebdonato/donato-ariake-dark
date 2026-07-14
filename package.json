@@ -1,31 +1,58 @@
 {
-    "name": "ariake-dark",
-    "displayName": "Ariake Dark",
-    "description": "Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago",
-    "version": "0.2.1",
-    "publisher": "wart",
-    "engines": {
-        "vscode": "^1.17.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ariake Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Ariake Dark-color-theme.json"
-            }
-        ]
-    },
-    "dependencies": {
-        "generator-code": "^1.1.20"
-    },
-    "__metadata": {
-        "id": "d4f6606c-59fe-4fbe-8b09-4786ea0bf349",
-        "publisherId": "e2a52de2-1af3-44dc-a7ec-568a9c7743dd",
-        "publisherDisplayName": "wart"
-    }
+  "name": "donato-ariake-dark",
+  "displayName": "Donato Ariake Dark",
+  "description": "Donato Ariake Dark, OLED and flat themes for VS Code and Google Antigravity IDE",
+  "version": "1.0.0",
+  "publisher": "ebdonato",
+  "license": "MIT",
+  "author": {
+    "name": "Eduardo DONATO",
+    "email": "eduardo.donato@gmail.com",
+    "url": "https://github.com/ebdonato/donato-ariake-dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebdonato/donato-ariake-dark"
+  },
+  "homepage": "https://github.com/ebdonato/donato-ariake-dark#readme",
+  "bugs": {
+    "url": "https://github.com/ebdonato/donato-ariake-dark/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "ariake",
+    "donato",
+    "oled",
+    "flat",
+    "color-theme",
+    "antigravity",
+    "google antigravity"
+  ],
+  "engines": {
+    "vscode": "^1.60.0",
+    "antigravity": "^1.0.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#16191d",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "donato ariake dark flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/donato-ariake-dark-flat-color-theme.json"
+      },
+      {
+        "label": "donato ariake dark oled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/donato-ariake-dark-oled-color-theme.json"
+      }
+    ]
+  }
 }
