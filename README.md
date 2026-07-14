@@ -2,6 +2,12 @@
 
 ![Title image](assets/ariake_dark_github.png)
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ebdonato.donato-ariake-dark">VS Code Marketplace</a>
+  &nbsp;·&nbsp;
+  <a href="https://open-vsx.org/extension/ebdonato/donato-ariake-dark">Open VSX Registry</a>
+</p>
+
 Dark theme for VS Code and Google Antigravity IDE, forked from [Ariake Dark](https://github.com/a-wart/ariake-dark) by [Artem](https://github.com/a-wart), and that one forked from [Ariake Dark](https://github.com/pathtrk/ariake-dark-syntax) by [@pathtrk](https://github.com/pathtrk/).
 
 Ariake is a syntax theme inspired by Japanese traditional colors and the poetry composed 1000 years ago. This fork ships two variants:

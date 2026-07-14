@@ -1,8 +1,8 @@
 {
   "name": "donato-ariake-dark",
-  "displayName": "Donato Ariake Dark",
+  "displayName": "donato ariake dark",
   "description": "Donato Ariake Dark, OLED and flat themes for VS Code and Google Antigravity IDE",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ebdonato",
   "license": "MIT",
   "author": {
