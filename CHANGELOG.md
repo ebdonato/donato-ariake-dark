@@ -7,3 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [1.0.0] - 2026-07-13
 
 First version
+
+## [1.0.1] - 2026-07-13
+
+Fix Github Action workflow
