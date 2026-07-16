@@ -1,6 +1,8 @@
 # donato ariake dark
 
-![Title image](assets/ariake_dark_github.png)
+<p align="center">
+ <img src="assets/icon.png" alt="donato ariake dark logo" width="300"/>
+</p>
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=ebdonato.donato-ariake-dark">VS Code Marketplace</a>
@@ -8,12 +10,16 @@
   <a href="https://open-vsx.org/extension/ebdonato/donato-ariake-dark">Open VSX Registry</a>
 </p>
 
-Dark theme for VS Code and Google Antigravity IDE, forked from [Ariake Dark](https://github.com/a-wart/ariake-dark) by [Artem](https://github.com/a-wart), and that one forked from [Ariake Dark](https://github.com/pathtrk/ariake-dark-syntax) by [@pathtrk](https://github.com/pathtrk/).
+Dark theme for VS Code and Google Antigravity IDE, **inspired by** — but not the same as — [Ariake Dark](https://github.com/a-wart/ariake-dark) by [Artem](https://github.com/a-wart), which itself was derived from [Ariake Dark](https://github.com/pathtrk/ariake-dark-syntax) by [@pathtrk](https://github.com/pathtrk/).
 
-Ariake is a syntax theme inspired by Japanese traditional colors and the poetry composed 1000 years ago. This fork ships two variants:
+This is an independent reinterpretation of the Ariake palette, not a fork or a copy. The original theme by [@pathtrk](https://github.com/pathtrk/) draws on Japanese traditional colors and the poetry composed 1000 years ago. This version reworks that aesthetic with its own color choices, token mappings, and surface styling, and ships two variants:
 
 - **Flat** — soft surfaces, standard editor background.
 - **OLED** — true black background for OLED displays and reduced bloom.
+
+If you enjoy the original Ariake Dark, please support its authors. This extension is a separate project created by [Eduardo DONATO](https://github.com/ebdonato) and is not affiliated with, endorsed by, or derived from the original themes.
+
+> The original theme Ariake Dark can be found [here](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark).
 
 "有明の　つれなく見えし　別れより　暁ばかり　憂きものはなし" - Mibu no Tadamine (壬生忠岑)
 
